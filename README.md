@@ -1,2 +1,1 @@
-# o-isw2-serverless-demo
-Serverless-Versel
+# ISW2 – Serverless Demo
