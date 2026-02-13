@@ -1,0 +1,7 @@
+{
+  "name": "mi-proyecto-serverless",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
